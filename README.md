@@ -1,6 +1,6 @@
 # Estudos-CSharp
 
-1. Roadmap
+0. Roadmap
 2. Fundamentos
 3. POO - Programação Orientada a Objeto
 4. Nuget
