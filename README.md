@@ -1,9 +1,9 @@
 # Estudos-CSharp
 
 0. Roadmap
-2. Fundamentos
-3. POO - Programação Orientada a Objeto
-4. Nuget
-5. Intermediario
-6. Trabalhando com Dados
-7. Manipulação de Arquivos
+1. Fundamentos :white_check_mark:
+2. POO - Programação Orientada a Objeto  :pencil:
+3. Nuget
+4. Intermediario
+5. Trabalhando com Dados
+6. Manipulação de Arquivos
