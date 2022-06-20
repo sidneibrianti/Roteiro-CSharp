@@ -1,6 +1,5 @@
 # Estudos-CSharp
 
-0. Roadmap
 1. Fundamentos :white_check_mark:
 2. POO - Programação Orientada a Objeto  :pencil:
 3. Nuget
